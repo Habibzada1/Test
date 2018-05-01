@@ -1,0 +1,4 @@
+This is a Java project
+int x=10;
+int y=20;
+System.out.prinln()
